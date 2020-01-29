@@ -14,12 +14,21 @@
 
 ## CSS/LESS/SASS
 
+- [animate.css](https://daneden.github.io/animate.css/) - an animation library that uses classes to animate your elements
+- [Load Awesome](https://github.danielcardoso.net/load-awesome/animations.html) - a collection of preloader animations ready to put into your css
+
 ## JavaScript
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [lodash](https://lodash.com/)
+- [typechecker](https://www.npmjs.com/package/typechecker) - Very usefull validation lib when you don't want to pull lodash
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - Very nice smooth scroll in js library
+- [headroom.js](http://wicky.nillia.ms/headroom.js/) - js hide header on scroll library
+- [rellax](https://github.com/dixonandmoe/rellax) - minimalistic paralax library
+- [validate.js](https://validatejs.org/) - great framework agnostic validation library
+- [InputMask](https://github.com/RobinHerbots/Inputmask) - best input mask library around with native and jquery api
+
 
 
 ## Vue
