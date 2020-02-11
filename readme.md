@@ -28,6 +28,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [rellax](https://github.com/dixonandmoe/rellax) - minimalistic paralax library
 - [validate.js](https://validatejs.org/) - great framework agnostic validation library
 - [InputMask](https://github.com/RobinHerbots/Inputmask) - best input mask library around with native and jquery api
+- [sweetalert2](https://sweetalert2.github.io/) - really cool alert/dialog library that is style and framework agnostic
 
 
 
