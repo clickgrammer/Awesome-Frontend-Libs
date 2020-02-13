@@ -37,8 +37,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Vue
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Vuetify](https://vuetifyjs.com/) - Material Design Component Framework
+- [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2 library for showing notifications 
 
 
 ## Mobile
