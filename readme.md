@@ -16,6 +16,8 @@
 
 - [animate.css](https://daneden.github.io/animate.css/) - an animation library that uses classes to animate your elements
 - [Load Awesome](https://github.danielcardoso.net/load-awesome/animations.html) - a collection of preloader animations ready to put into your css
+- [griddle](https://github.com/daveberning/griddle) - Griddle is a CSS framework created with CSS Grid and Flexbox. At its core, is CSS Grid.
+- [tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs. Useful for prototyping.
 
 ## JavaScript
 
