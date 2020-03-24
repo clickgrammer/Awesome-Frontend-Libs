@@ -40,6 +40,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Vuetify](https://vuetifyjs.com/) - Material Design Component Framework
 - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2 library for showing notifications 
 - [vuex-persist](https://github.com/championswimmer/vuex-persist) - Vuex plugin that save the state to cookies or localStorage 
+- [vue2-filters](https://www.npmjs.com/package/vue2-filters) - A collection of basic filters for vue
 
 
 ## Mobile
